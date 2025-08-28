@@ -2,11 +2,11 @@
 
 # 📝 Professional Profile – About Me
 
-👨‍🎓 BSIT Student | 📚 Laguna State Polytechnic University (LSPU) 🌿✨
+👨‍🎓 BSIT Student  📚 Laguna State Polytechnic University (LSPU) 🌿✨
 
 📖 Currently learning: 🐘 PHP  🐍 Python 🗄️ SQL  🌐 HTML  🎨 CSS
 
-🎯 My Goals:
+# 🎯 My Goals:
 
 * 📚 Learn more to become a Web & Mobile Application Developer 💻📱
 
@@ -14,3 +14,11 @@
 
 * 🖌️ Improve knowledge in Graphic Design using Photoshop 🖼️
 
+* 💡 Interested in UI/UX Design 🎨 and PHP Programming 🐘💻
+
+# 🛠️ Skills
+* 💻 Languages: PHP 🐘, Python 🐍, SQL 🗄️, HTML 🌐, CSS 🎨
+
+* ⚙️ Frameworks & Tools: XAMPP 🖥️, Visual Studio Code 📝
+
+* 📊 Other: Database Management 🗃️, Prototyping 🧩, Project Documentation 📖
