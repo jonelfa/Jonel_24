@@ -22,3 +22,18 @@
 * ⚙️ Frameworks & Tools: XAMPP 🖥️, Visual Studio Code 📝
 
 * 📊 Other: Database Management 🗃️, Prototyping 🧩, Project Documentation 📖
+
+# 🚀 Current Projects
+
+* 🌐 Web-based Monitoring & Management System – for the Office of the Municipal Agriculturist
+
+* 🎨 UI/UX Design Concepts – using Figma & Adobe XD
+
+* 🐘 PHP & MySQL Practice Projects – database-driven application
+
+# 🤝 Connect with Me
+
+📧 Email: [joneldayapera8@gmai.com]
+
+🐙 GitHub: [https://github.com/jonelfa]
+
