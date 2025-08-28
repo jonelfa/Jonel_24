@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94E2D5&center=true&vCenter=true&width=600&lines=👨‍🎓+BSIT+Student+%40+LSPU;💻+Aspiring+Web+%26+Mobile+Developer;🎨+UI%2FUX+Design+Enthusiast;🐘+PHP+%26+Python+Developer" alt="Typing SVG"/>
   </a>
   
-  <br>
   <img src="https://komarev.com/ghpvc/?username=jonelfa&label=Profile%20Views&color=89b4fa&style=for-the-badge" alt="Profile Views"/>
 </div>
 
@@ -17,8 +16,9 @@
       <h2>📝 About Me</h2>
       <p align="left">
         Kumusta! I'm a passionate <strong>BS Information Technology student</strong> at <strong>Laguna State Polytechnic University (LSPU)</strong> 🌿. I hail from <em>Luisiana, Calabarzon, the picturesque "Little Baguio of Laguna"</em> 🌲, where my journey in tech began.
-        <br><br>
-        💡 My drive is to craft impactful <strong>digital experiences</strong> that are not only **robust and functional** but also **intuitively designed and aesthetically pleasing**. I’m currently immersing myself in **Web & Mobile Development**, constantly expanding my toolkit, and deeply enhancing my skills in **UI/UX Design** to build user-centric solutions.
+      </p>
+      <p align="left">
+        💡 My drive is to craft impactful <strong>digital experiences</strong> that are not only <b>robust and functional</b> but also <b>intuitively designed and aesthetically pleasing</b>. I’m currently immersing myself in <b>Web & Mobile Development</b>, constantly expanding my toolkit, and deeply enhancing my skills in <b>UI/UX Design</b> to build user-centric solutions.
       </p>
 
       <h2>🚀 Current Focus & Goals</h2>
@@ -29,22 +29,23 @@
         <li>Contributing to meaningful projects and continuously learning new technologies.</li>
       </ul>
     </td>
+
     <td width="40%" valign="top">
       <h2>🤝 Let's Connect!</h2>
       <p align="center">
         <a href="mailto:joneldayapera8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
         <a href="https://github.com/jonelfa" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br>
-        <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME-HERE" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       </p>
-      <br>
+
       <h2 align="center">🌱 What I'm Learning</h2>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-        <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+      </div>
     </td>
   </tr>
 </table>
@@ -52,60 +53,50 @@
 ---
 
 <h2>🛠️ My Tech Stack</h2>
-<p align="center">
-  <h3>Languages</h3>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  
-  <h3>Design Tools</h3>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/></a>
-  
-  <h3>Developer Tools</h3>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/></a>
-</p>
+<div align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
----
+  <br><br>
+  <b>Design Tools</b><br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
-<h2>🚀 Pinned Projects</h2>
-<p align="center">
-  <a href="https://github.com/jonelfa/YOUR-FIRST-PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonelfa&repo=YOUR-FIRST-PROJECT&theme=catppuccin_mocha&show_owner=true" />
-  </a>
-  <a href="https://github.com/jonelfa/YOUR-SECOND-PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonelfa&repo=YOUR-SECOND-PROJECT&theme=catppuccin_mocha&show_owner=true" />
-  </a>
-</p>
+  <br><br>
+  <b>Developer Tools</b><br>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</div>
 
 ---
 
 <h2>📊 GitHub Stats & Activity</h2>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jonelfa&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonelfa&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jonelfa&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonelfa&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonelfa&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonelfa&theme=catppuccin_mocha&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonelfa&theme=catppuccin_mocha&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jonelfa&theme=catppuccin_mocha&no-frame=true&row=1&column=6"/>
 </p>
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=jonelfa&theme=catppuccin" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonelfa&theme=catppuccin"/>
 </p>
 
 ---
 
 <h2>🐍 Contribution Snake</h2>
 <div align="center">
-  <img src="https://github.com/jonelfa/jonelfa/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" style="max-width: 100%;"/>
+  <img src="https://github.com/jonelfa/jonelfa/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
