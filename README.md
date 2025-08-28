@@ -2,5 +2,6 @@
 
 # 📝 Professional Profile – About Me
 👨‍🎓 BSIT Student | 📚 Laguna State Polytechnic University (LSPU) 🌿✨
+
 📖 Currently learning: 🐘 PHP | 🐍 Python | 🗄️ SQL | 🌐 HTML
 
