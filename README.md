@@ -66,9 +66,6 @@ Database Management • Prototyping • Project Documentation
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonelfa&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonelfa&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
