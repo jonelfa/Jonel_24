@@ -1,43 +1,49 @@
-<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 30px; border-radius: 15px; color: white;">
+<div align="center" style="background: linear-gradient(135deg, #4facfe, #00f2fe); padding: 40px; border-radius: 20px; color: #fff; font-family: Arial, sans-serif; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
 
-# 👔 Hi There, I am Jonel
-✨ Delighted to have this opportunity to introduce myself ✨
-
----
-
-## 📝 Professional Profile – About Me
-👨‍🎓 **BSIT Student**  
-📚 *Laguna State Polytechnic University (LSPU)* 🌿✨  
-
-📖 *Currently Learning:*  
-🐘 PHP • 🐍 Python • 🗄️ SQL • 🌐 HTML • 🎨 CSS  
+<h1 style="font-size: 40px; margin-bottom: 10px;">👋 Hi, I'm <span style="color:#ffe66d;">Jonel Cruz</span></h1>
+<p style="font-size:18px; font-style: italic;">"Delighted to have this opportunity to introduce myself"</p>
 
 ---
 
-## 🎯 My Goals
-- 📚 Learn more to become a **Web & Mobile Application Developer** 💻📱  
-- 🎨 Enhance skills in **UI/UX using Figma & Adobe** ✨  
-- 🖌️ Improve knowledge in **Graphic Design (Photoshop)** 🖼️  
-- 💡 Interested in **UI/UX Design & PHP Programming** 🐘💻  
+## ✨ About Me
+🎓 **BSIT Student**  
+🌿 *Laguna State Polytechnic University (LSPU)*  
+
+💡 *Passionate about:*  
+- Web & Mobile Development 📱💻  
+- UI/UX Design 🎨  
+- Database Systems 🗄️  
 
 ---
 
-## 🛠️ Skills
-- 💻 **Languages:** PHP 🐘, Python 🐍, SQL 🗄️, HTML 🌐, CSS 🎨  
-- ⚙️ **Frameworks & Tools:** XAMPP 🖥️, Visual Studio Code 📝  
-- 📊 **Other:** Database Management 🗃️, Prototyping 🧩, Project Documentation 📖  
+## 🎯 Goals
+- 📚 Become a **Web & Mobile Developer**  
+- 🎨 Improve **UI/UX skills** with Figma & Adobe  
+- 🖌️ Master **Graphic Design (Photoshop)**  
+- 🐘 Advance in **PHP & Database Programming**  
+
+---
+
+## 🛠 Skills
+| Languages | Tools & Frameworks | Others |
+|-----------|--------------------|--------|
+| 🐘 PHP, 🐍 Python, SQL, HTML, CSS | XAMPP, VS Code, GitHub | Database Management, Prototyping, Documentation |
 
 ---
 
 ## 🚀 Current Projects
-- 🌐 **Web-based Monitoring & Management System** – Office of the Municipal Agriculturist  
-- 🎨 **UI/UX Design Concepts** – Figma & Adobe XD  
-- 🐘 **PHP & MySQL Practice Projects** – Database-driven applications  
+- 🌐 Web-based Monitoring & Management System – *Agriculture Office*  
+- 🎨 UI/UX Design Concepts – *Figma & Adobe XD*  
+- 🐘 PHP + MySQL Database Applications  
 
 ---
 
-## 🤝 Connect with Me
-📧 **Email:** [joneldayapera8@gmai.com](mailto:joneldayapera8@gmai.com)  
+## 🤝 Let’s Connect
+📧 **Email:** [joneldayapera8@gmail.com](mailto:joneldayapera8@gmail.com)  
 🐙 **GitHub:** [github.com/jonelfa](https://github.com/jonelfa)  
+
+---
+
+⭐ *"Always learning, always building!"* ⭐
 
 </div>
