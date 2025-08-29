@@ -1,3 +1,8 @@
+<!-- 🖼️ Animated Banner -->
+<p align="center">
+  <img src="https://github.com/jonelfa/jonelfa/blob/main/assets/banner.gif" alt="Animated Banner" width="100%" />
+</p>
+
 <!-- 🌟 Profile Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=✨%20Hi%2C%20I'm%20Jonel%20✨&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
@@ -82,6 +87,7 @@
 
 ---
 
+<!-- 🌊 Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
