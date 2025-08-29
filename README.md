@@ -29,7 +29,7 @@
 ---
 
 ## 🎯 Goals
-- 🚀 Become a **Full-Stack Web & Mobile Developer**  
+- 🚀 Become a ** Web & Mobile Developer**  
 - 🎨 Master **UI/UX Design** using Figma & Adobe XD  
 - 🖌️ Level up **Graphic Design** with Photoshop & Canva  
 - 🐘 Deepen expertise in **PHP & Database Systems**
