@@ -1,7 +1,4 @@
-<!-- 🖼️ Animated Banner -->
-<p align="center">
-  <img src="https://github.com/jonelfa/jonelfa/blob/main/assets/banner.gif" alt="Animated Banner" width="100%" />
-</p>
+
 
 <!-- 🌟 Profile Header -->
 <div align="center">
